@@ -135,8 +135,3 @@ if query:
     for i in I[0]:
         st.write(f"- {texts[i][:300]}...")
 
-!pip install pdfplumber
-
-!pip install faiss-cpu
-
-!pip install streamlit
